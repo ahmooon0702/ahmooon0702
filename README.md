@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmooon0702
 - 👀 I’m interested in hiking, photography, reading, and video games
 - 🌱 I’m currently learning coding principles with Python
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on how to use GitHub
 - 📫 How to reach me ...
 
 <!---
